@@ -1,0 +1,87 @@
+.login-main-content{
+    background-image: url("./../images/background.jpg");
+    height: 620px;;
+}
+
+.login-container{
+    margin-top: 10%;
+    margin-left: 35%;
+    border: 1px solid #ced4da;
+    border-radius: 15px;
+    padding: 25px;
+    opacity: 0.9;
+    background-color: white;
+}
+
+.login-container h2{
+    margin-top: 0px;
+}
+
+.navbar-default{
+    background-color: limegreen;
+    min-height: 60px;
+}
+
+.container-fluid{
+    padding-top: 8px;
+}
+
+.navbar-default .navbar-nav li a{
+    color:white;
+    font-size: 17px;
+}
+
+.dropdown-toggle a:hover{
+    background-color: limegreen;
+}
+
+.dropdown-menu{
+    border: none;
+    background: limegreen;
+    min-width: 140px;
+}
+
+.dropdown .dropdown-menu li a{
+    color:white;
+    font-size: 17px;
+}
+
+.dropdown .dropdown-menu li a:hover{
+    color:black;
+    background: limegreen;
+}
+
+.main-content{
+    min-height: 500px;
+}
+
+.footer{
+    background-color: limegreen;
+    min-height: 20px;
+    margin-top: 20px;
+}
+
+.error{
+    margin-bottom: 5px;
+    text-align: center;
+    color: red;
+}
+
+.success{
+    margin-bottom: 5px;
+    text-align: center;
+    color: green;
+}
+
+.roletable{
+    margin-top: 20px;
+}
+
+.logout-menu{
+    float: right;
+}
+
+.perinfo-title{
+    text-align: center; 
+}
+
